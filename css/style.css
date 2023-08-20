@@ -138,6 +138,7 @@ a {
 
 #about-list li {
     line-height: 30px;
+    font-weight: bold;
 }
 
 #about-list i {
